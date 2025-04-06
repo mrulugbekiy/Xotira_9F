@@ -679,7 +679,7 @@ function checkPassword(){
   const savedEncryptedPassword = localStorage.getItem(PASSWORD_KEY);
   if (savedEncryptedPassword) {
     const decryptedPassword = decryptPassword(savedEncryptedPassword);
-   if(decryptedPassword == "Xotira_9F"){
+   if(decryptedPassword == "Hayot"){
     passwordLock.style.display = "none";
     appContent.style.display = "block";
    }
@@ -732,7 +732,7 @@ passwordSubmit.addEventListener('click', () => {
     const encryptedPassword = encryptPassword(password);
   const decryptedPassword = decryptPassword(encryptedPassword);
 
-  if(decryptedPassword == "Xotira_9F"){
+  if(decryptedPassword == "Hayot"){
     localStorage.setItem(PASSWORD_KEY, encryptedPassword);
     passwordLock.style.display = "none";
      appContent.style.display = "block";
