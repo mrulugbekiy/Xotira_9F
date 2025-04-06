@@ -116,7 +116,7 @@ const classmates = [
     quote: "Abdurahmonova Parizoda Jasurbek qizi , 2010 yil 31-May kuni    da tug'ilgan. 332 Maktab 7F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda 9 sinfgacha qolgan. Intiluvchan va Mehnatsevar qiz. Kelajakdagi maqsadi : Matematikadan Milliy Sertifikat sohibasi bo'lish va Diplomatiya Litseyi ga Jaxon Iqtisodiyoti bo'yicha o'qishga kirish ",
     description: "Matematik,Diplomat,Arxitektor",
     isFavorite: false,
-    additionalPhotos: ["images/girls/parizoda3.jpg","images/girls/parizoda4.jpg","images/girls/parizoda5.jpg",,"images/girls/parizoda6.jpg","images/girls/parizoda7.jpg","images/girls/parizoda8.jpg"],
+    additionalPhotos: ["images/girls/parizoda3.jpg","images/girls/parizoda4.jpg","images/girls/parizoda5.jpg",,"images/girls/parizoda6.JPG","images/girls/parizoda7.JPG","images/girls/parizoda8.jpg"],
     socialLinks: []
   },
   {
@@ -151,7 +151,7 @@ const classmates = [
     quote: "Aliboyeva Nozima Faxriddinovna 2009-yil 24-dekabr kuni tug'ilgan. U 332-maktabning 6F sinfiga imtihondan muvaffaqiyatli o'tib kirgan va shu sinfda 9-sinfgacha tahsil olgan. Nozima bolaligidan bilimga chanqoq bo'lib, o'qishga, yangi narsalarni o‘rganishga va shaxsiy rivojlanishga katta e’tibor berib keladi.  Uning qiziquvchanligi va izlanishlarga bo'lgan ishtiyoqi unga turli sohalarda o'zini sinab ko'rish imkoniyatini yaratgan. Nozima har doim bilim olishga intilib, kitob o'qish, tahlil qilish va fikrlash orqali dunyoqarashini kengaytiradi. Do'stlari va ustozlari uni tirishqoqligi, fidoyiligi va maqsad sari qat'iyat bilan intilishi bilan yaxshi bilishadi.  U nafaqat bilimga chanqoq inson, balki o'z orzularini amalga oshirish uchun astoydil harakat qiladigan kuchli shaxsdir. Nozima o'zining mustaqil fikrlashi va kuchli irodasi bilan kelajakda o'z yo'lini yaratishga intiladi. Har qanday qiyinchiliklarga qaramay, o'z oldiga qo'ygan maqsadlarga erishish uchun tinimsiz mehnat qiladi.  Uning kelajakdagi asosiy maqsadi – o'zi istagan inson bo'lish va o'zi istagandek hayot kechirishdir . U o'z hayotini mustaqil ravishda qurib, o'zining qiziqishlari va qadriyatlariga mos tarzda yashashni maqsad qilgan. Nozima har doim oldinga intilib, orzularini haqiqatga aylantirishga ishonadi.",  
     description: "Doktor",
     isFavorite: false,
-    additionalPhotos: ["images/girls/nozima3.jpg","images/girls/nozima4.jpg","images/girls/nozima5.jpg","images/girls/nozima6.jpg","images/girls/nozima7.jpg","images/girls/nozima8.jpg"],
+    additionalPhotos: ["images/girls/nozima3.jpg","images/girls/nozima4.jpg","images/girls/nozima5.jpg","images/girls/nozima6.jpg","images/girls/nozima7.JPG","images/girls/nozima8.JPG"],
     socialLinks: []
   },
   
@@ -174,7 +174,7 @@ const classmates = [
     quote: "Berdiyeva Musaffobonu Alisher qizi 2010 yil 13 Fevral kuni tug'ilgan , 332 maktab 7F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda 9 sinfgacha qolgan. Kelajakdagi maqsadi : Koreya davlatida O'qishga kirish va usha yerda hayotini kechish. ",
     description: "Oddiy Odam",
     isFavorite: false,
-    additionalPhotos: ["images/girls/musaffo2.jpg","images/girls/musaffo3.jpg","images/girls/musaffo4.jpg"],
+    additionalPhotos: ["images/girls/musaffo2.jpg","images/girls/musaffo3.JPG","images/girls/musaffo4.JPG"],
     socialLinks: []
   },
   
@@ -186,7 +186,7 @@ const classmates = [
     quote: "Bo'riboyeva Davlatbibi 2009 yil 17 Aprel kuni Surxondaryo da tug'ilgan.  332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan. Psixologiya , Shaxsiy Biznes va Animatsion Filmlarga qiziqadi. Intiluvchan va Mehnatsevar ,Doim bilimga erishishga harakat qiluvchi inson va Yaxshi , Ishonchli do'st. Kelajakdagi maqsadi : Koreya davlati da o'z biznesini tashkil etish va uni faollashtirish",
     description: "BiznesLady",
     isFavorite: false,
-    additionalPhotos: ["images/girls/davlatbibi2.jpg","images/girls/davlatbibi3.jpg","images/girls/davlatbibi4.jpg"], 
+    additionalPhotos: ["images/girls/davlatbibi2.jpg","images/girls/davlatbibi3.JPG","images/girls/davlatbibi4.JPG"], 
     socialLinks: []
   },
   
@@ -235,7 +235,7 @@ const classmates = [
     quote: "Keldiyarova Charos 332 Maktab 9F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda Hozirgacha qolgan . Ona Tili va Adabiyot fanlariga qiziqishi tufayli u Jurnalistika sohasiga qiziqadi va u kasbni egallashni hohlaydi . Kelajakdagi Maqsadi : Jurnalistika Sohasida O'zi istagan Nufuzli Ta'lim dargohi ga o'qishga kirish. ",
     description: "Jurnalist",
     isFavorite: false,
-    additionalPhotos: ["images/girls/charos2.jpg","images/girls/charos3.jpg","images/girls/charos4.jpg","images/girls/charos5.jpg"],
+    additionalPhotos: ["images/girls/charos2.jpg","images/girls/charos3.jpg","images/girls/charos4.JPG","images/girls/charos5.JPG"],
     socialLinks: []
   },
   
@@ -247,7 +247,7 @@ const classmates = [
     quote: "Mahmarayimova Gulrangbegim Husan qizi 2009 yil 8 Noyabr kuni tug'ilgan. 332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan. Bilim olishga  qiziqadi va doim Yangi Narsalarni o'rganishga intiladi. Kelajak Maqsadi : O'zi Istagan Inson Bo'lish va O'zi Istagandek Hayot Kechirish",
     description: "O'ta Sirli Odam",
     isFavorite: false,
-    additionalPhotos: ["images/girls/guli2.jpg","images/girls/guli3.jpg","images/girls/guli4.jpg"],
+    additionalPhotos: ["images/girls/guli2.jpg","images/girls/guli3.JPG","images/girls/guli4.JPG"],
     socialLinks: []
   },
   
@@ -259,7 +259,7 @@ const classmates = [
     quote: "Matrizayeva Shahloxon Xursadbek qizi 2009-yil 24-oktyabr kuni dunyoga kelgan. U 332-maktabning 6F sinfiga imtihondan muvaffaqiyatli o'tib qabul qilingan va shu sinfda 9-sinfgacha tahsil olgan. Maktab davridan boshlab u har doim bilim olishga ishtiyoq bilan yondashib, o'z ustida tinimsiz ishlaydi. Yangi bilimlarni egallashga katta qiziqish bilan yondashib, ilm-fanni chuqur o'rganishga intiladi.Shahloxon tabiatan qiziquvchan va ijodkor shaxs bo'lib, turli fanlar bo'yicha o'z qobiliyatini namoyon etgan. U ayniqsa matematika va tillarga nisbatan yuqori qobiliyatga ega bo'lib, bu yo'nalishlarda a'lo darajada o'qib, o'zining mantiqiy fikrlash qobiliyatini rivojlantirib kelmoqda. Mantiqiy tahlil qilish, murakkab masalalarni yechish va fikrlarni aniq ifodalash – uning kuchli tomonlaridan biri. Bundan tashqari, u chet tillarini o'rganishga katta qiziqish bildiradi va bu borada tez muvaffaqiyatga erishadi.Shuningdek, u sport, xususan, gimnastikaga juda qiziqadi. Moslashuvchanlik, chidamlilik va harakatlarning nafisligi unga xos bo'lib, gimnastika bilan shug'ullanish unga katta zavq bag'ishlaydi. Jismoniy faollik uning intizomli va maqsad sari qat'iyat bilan harakat qiladigan inson bo'lishiga yordam bermoqda. U muntazam ravishda o'zining jismoniy va aqliy qobiliyatlarini rivojlantirib, har doim o'z ustida ishlashga intiladi.Shahloxonning hayotdagi asosiy maqsadi – o'zi orzu qilgan muvaffaqiyat va baxtga to'la hayotda yashashdir. U o'z oldiga qo'ygan maqsadlariga erishish uchun hech qachon ortga chekinmaydi, o'z ustida tinimsiz mehnat qiladi va doim yangi yutuqlarga intiladi. Kelajakda o'z bilimlari va qobiliyatlari orqali katta muvaffaqiyatlarga erishish niyatida bo'lib, hayotdagi har bir imkoniyatdan unumli foydalanishga harakat qiladi.",
     description: "Aqlli va Talantli Qiz",
     isFavorite: false,
-    additionalPhotos: ["images/girls/shahlo2.jpg","images/girls/shahlo3.jpg","images/girls/shahlo4.jpg"],
+    additionalPhotos: ["images/girls/shahlo2.jpg","images/girls/shahlo3.JPG","images/girls/shahlo4.JPG"],
     socialLinks: []
   },
   
@@ -282,7 +282,7 @@ const classmates = [
     quote: "Murodullayeva Sevinch Habibullo qizi 2010 yil 15 Yanvar Toshkent shahrida tug'ilgan. 332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan. Ajoyib Dizayner va Talantli Rassom. Kelajakdagi maqsadi : SMM marketing va IT sohalarida ketib Ijtimmoiy Tarmoqlarda o'z brendini yaratish.",
     description: "Grafik Dizayner, Blogger va Rassom",
     isFavorite: false,
-    additionalPhotos: ["images/girls/sevinch3.jpg","images/girls/sevinch4.jpg","images/girls/sevinch5.jpg","images/girls/sevinch6.jpg"],
+    additionalPhotos: ["images/girls/sevinch3.jpg","images/girls/sevinch4.JPG","images/girls/sevinch5.JPG","images/girls/sevinch6.jpg"],
     socialLinks: []
   },
   {
@@ -293,7 +293,7 @@ const classmates = [
     quote: "Fayzulayeva Navbahor 2009-yil 22-avgust  Samarqand viloyatida tug'ilgan. 332 Maktab 9F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda Hozirgacha qolgan . Iqtidorli shaxmatchi va ko'p sohalarga qiziquvchan odam . Kelajakdagi Maqsadi : O'z sohasida ishlab ko'plab pullar topish va Barcha Orzularini ro'yobga chiqarish",
     description: "O'qituvchi va Doktor",
     isFavorite: false,
-    additionalPhotos: ["images/girls/navbahor2.jpg","images/girls/navbahor3.jpg","images/girls/navbahor4.jpg"],
+    additionalPhotos: ["images/girls/navbahor2.jpg","images/girls/navbahor3.JPG","images/girls/navbahor4.JPG"],
     socialLinks: []
   },
   
@@ -305,7 +305,7 @@ const classmates = [
     quote: "Mutalipova Ra'noxon Erkin qizi 2009 yil 1 Avgust kuni Tug'ilgan .332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan. Tillar o'rganishga qiziquvchi bu qiz , o'ta bilimli va odobli qiz . Kelajakdagi Maqsadi : Iloji Boricha ko'proq tillarni o'rganib Dunyo bo'ylab sayohat qilish.",
     description: "Tarjimon , Gid",
     isFavorite: false,
-    additionalPhotos: ["images/girls/rano3.jpg","images/girls/rano2.jpg",,"images/girls/rano5.jpg",,"images/girls/rano6.jpg"],
+    additionalPhotos: ["images/girls/rano3.jpg","images/girls/rano2.jpg",,"images/girls/rano5.JPG",,"images/girls/rano6.JPG"],
     socialLinks: []
   },
   {
@@ -382,7 +382,7 @@ const classmates = [
   quote: "Tolliboyeva Muslimaxon Samariddin qizi 2009 yil 7 Iyul da Toshkent shahrida tug'ilgan . 332 Maktab 9F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda Hozirgacha qolgan .Koreys Tilini deyarli Mukammal daraja da biladigan , Aqlli qiz . Kelajakdagi Maqsadi : Koreya Davlatiga ketib  usha yerdi o'z sohasida o'qishga kirish va usha yerda Baxtli Hayot kechirish.",
   description: "Koreys Tili Mutaxassisi",
   isFavorite: false, 
-  additionalPhotos: ["images/girls/tmuslima2.jpg","images/girls/tmuslima3.jpg","images/girls/tmuslima4.jpg","images/girls/tmuslima5.jpg",,"images/girls/tmuslima6.jpg",,"images/girls/tmuslima7.jpg","images/girls/tmuslima8.jpg","images/girls/tmuslima9.jpg"],
+  additionalPhotos: ["images/girls/tmuslima2.jpg","images/girls/tmuslima3.jpg","images/girls/tmuslima4.jpg","images/girls/tmuslima5.jpg",,"images/girls/tmuslima6.jpg",,"images/girls/tmuslima7.jpg","images/girls/tmuslima8.JPG","images/girls/tmuslima9.JPG"],
   socialLinks: []
   },
   {
@@ -404,7 +404,7 @@ const classmates = [
     quote: "Xushboqova Muslima Farhod qizi 2009-yil 6-iyul kuni Toshkent shahrida tug'ilgan. U 332-maktabning 6F sinfiga imtihondan muvaffaqiyatli o'tib kirgan va shu sinfda 9-sinfgacha tahsil olgan. Muslima o'zining tirishqoqligi, intiluvchanligi va mehnatsevarligi bilan doimo atrofidagilarning e'tiborini tortib kelgan.  U ingliz tilini chuqur o'rganish va o'rgatish bo'yicha mutaxassislikka ega bo'lishni maqsad qilib, ushbu sohada tinimsiz harakat qiladi. Til o'rganishga bo'lgan ishtiyoqi va o'z ustida ishlashga bo'lgan intilishi uning muvaffaqiyat kalitidir. U nafaqat o'zi yangi bilimlarni o'rganadi, balki boshqalarga ham o'rgatishga intiladi. Do'stlari va tanishlari orasida har doim yordamga tayyor, bilim va tajribasini boshqalar bilan bo'lishishga ochiq inson sifatida tanilgan.  Muslima nafaqat bilimga chanqoq inson, balki  havas qilsa arziydigan inson va ishonchli do'st hamdir. U har doim samimiyligi, halolligi va do'stlariga sodiqligi bilan ajralib turadi. U bilan muloqot qilish yoqimli va u har qanday vaziyatda ham pozitiv bo'lib, boshqalarga ilhom beradi.  Uning  kelajakdagi asosiy maqsadi – barcha kerakli bilimlarga ega bo'lib, o'zi orzu qilgan kasbni egallash va baxtli hayot kechirishdir. Muslima o'zining aql-zakovati va mehnatsevarligi bilan kelajakda katta muvaffaqiyatlarga erishishiga ishonadi va hech qachon o'z orzularidan voz kechmaydi.",
     description: "Ingliz tili mutaxassis",
     isFavorite: false,
-    additionalPhotos: ["images/girls/xmuslima2.jpg","images/girls/xmuslima3.jpg","images/girls/xmuslima4.jpg","images/girls/xmuslima5.jpg","images/girls/xmuslima6.jpg","images/girls/xmuslima7.jpg","images/girls/xmuslima8.jpg","images/girls/xmuslima9.jpg","images/girls/xmuslima10.jpg","images/girls/xmuslima11.jpg"],
+    additionalPhotos: ["images/girls/xmuslima2.jpg","images/girls/xmuslima3.jpg","images/girls/xmuslima4.jpg","images/girls/xmuslima5.jpg","images/girls/xmuslima6.jpg","images/girls/xmuslima7.jpg","images/girls/xmuslima8.jpg","images/girls/xmuslima9.jpg","images/girls/xmuslima10.JPG","images/girls/xmuslima11.JPG"],
     socialLinks: []
   },
   {
@@ -426,7 +426,7 @@ const classmates = [
     quote: "Shomurodova Mohinur 2009 yil 18 Avgust kuni tug'ilgan. 332 maktab 7F sinfiga Yangi O'quvchi sifatida kelgan va shu sinfda 9 sinfgacha qolgan. Ingliz Tilida juda Ravon va Havas qilsa arziydigan Nutq va Bilim egasi, Aqlli va Mehnatsevar qiz. Kelajakdagi Maqsadi : O'zi Istagan Sohada ketib ko'p miqdorda pul topish va barcha orzularini amalga oshirish. ",
     description: "Doktor",
     isFavorite: false,
-    additionalPhotos: ["images/girls/mohinur2.jpg","images/girls/mohinur3.jpg","images/girls/mohinur4.jpg"],
+    additionalPhotos: ["images/girls/mohinur2.jpg","images/girls/mohinur3.JPG","images/girls/mohinur4.JPG"],
     socialLinks: []
   },
   
