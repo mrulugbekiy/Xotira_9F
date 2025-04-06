@@ -116,7 +116,7 @@ const classmates = [
     quote: "Abdurahmonova Parizoda Jasurbek qizi , 2010 yil 31-May kuni    da tug'ilgan. 332 Maktab 7F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda 9 sinfgacha qolgan. Intiluvchan va Mehnatsevar qiz. Kelajakdagi maqsadi : Matematikadan Milliy Sertifikat sohibasi bo'lish va Diplomatiya Litseyi ga Jaxon Iqtisodiyoti bo'yicha o'qishga kirish ",
     description: "Matematik,Diplomat,Arxitektor",
     isFavorite: false,
-    additionalPhotos: ["images/girls/parizoda3.jpg","images/girls/parizoda4.jpg","images/girls/parizoda5.jpg",,"images/girls/parizoda6.jpg","images/girls/parizoda7.jpg"],
+    additionalPhotos: ["images/girls/parizoda3.jpg","images/girls/parizoda4.jpg","images/girls/parizoda5.jpg",,"images/girls/parizoda6.jpg","images/girls/parizoda7.jpg","images/girls/parizoda8.jpg"],
     socialLinks: []
   },
   {
@@ -282,7 +282,7 @@ const classmates = [
     quote: "Murodullayeva Sevinch Habibullo qizi 2010 yil 15 Yanvar Toshkent shahrida tug'ilgan. 332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan. Ajoyib Dizayner va Talantli Rassom. Kelajakdagi maqsadi : SMM marketing va IT sohalarida ketib Ijtimmoiy Tarmoqlarda o'z brendini yaratish.",
     description: "Grafik Dizayner, Blogger va Rassom",
     isFavorite: false,
-    additionalPhotos: ["images/girls/sevinch3.jpg","images/girls/sevinch4.jpg","images/girls/sevinch5.jpg"],
+    additionalPhotos: ["images/girls/sevinch3.jpg","images/girls/sevinch4.jpg","images/girls/sevinch5.jpg","images/girls/sevinch6.jpg"],
     socialLinks: []
   },
   {
