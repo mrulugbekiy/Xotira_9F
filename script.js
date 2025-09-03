@@ -327,7 +327,7 @@ const classmates = [
     quote: "Nosirov Abdurahmon Azimjon o'g'li 2009 yil  4 Noyabr kuni tug'ilgan. 332 Maktab 7F sinfiga yangi o'quvchi sifatida kelgan va shu sinfda 9 sinfgacha qolgan .11 sinfgacha qolish niyati bor. Yaxshi va Ishonchli do'st , Yaxshi fikrlovchi va aqlli inson. Kelajakdagi maqsadi : Xorijiy Davlat jumladan Angliya yoki Amerika ga ketish va usha yerda o'z kasbida ishlash ",
     description: "Ekonomist , Matematik",
     isFavorite: false,
-    additionalPhotos: ["images/boys/abdurahmon2.jpg","images/boys/abdurahmon3.jpg","images/boys/abdurahmon4.jpg","images/boys/abdurahmon5.jpg","images/boys/abdurahmon6.jpg","images/boys/abdurahmon9.jpg","images/boys/abdurahmon10.jpg"],
+    additionalPhotos: ["images/boys/abdurahmon2.jpg","images/boys/abdurahmon3.jpg","images/boys/abdurahmon4.jpg","images/boys/abdurahmon5.jpg","images/boys/abdurahmon6.jpg","images/boys/abdurahmon9.JPG","images/boys/abdurahmon10.JPG"],
     socialLinks: []
   },
   {
@@ -771,4 +771,5 @@ displayClassmates();
 
   Odilov Saidamirxon Umidjon o'g'li 2010 yil 3 Yanvar kuni da tug'ilgan. 332 maktab 6F sinfiga imtihon dan o'tib kirgan va shu sinfda 9 sinfgacha qolgan.11 sinfgacha qolish niyati bor . Kelajakdagi maqsadi : O'z kasbi yo'nalishi bo'yicha Grant asosida o'qishga kirish
   */ 
+
 
